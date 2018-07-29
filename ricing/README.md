@@ -15,6 +15,7 @@
   - [Como usar o i3wm (vídeo)](https://www.youtube.com/playlist?list=PL5ze0DjYv5DbCv9vNEzFmP6sU7ZmkGzcf)
   - [Introdução ao i3](https://www.vivaolinux.com.br/artigo/Introducao-gerenciador-de-janelas-i3)
   - [**i3-gaps** (fork do i3 para deixar espaços entre as janelas)](https://github.com/Airblader/i3)
+   - [**sway** (i3 no Wayland)](https://github.com/swaywm/sway)
   - [Configurando o i3 (vídeos)](https://www.youtube.com/playlist?list=PL-p5XmQHB_JTcMSvPmXMzNe7ZPMxEx_Oz)
 - **bspwm**:
     - [Source code (GitHub)](https://github.com/baskerville/bspwm)
