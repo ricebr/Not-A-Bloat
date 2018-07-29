@@ -33,7 +33,7 @@
     - [Manual](https://vivien.github.io/i3blocks/)
 - **Polybar**:
     - [GitHub](https://github.com/jaagr/polybar)
-    - [Wiki](https://github.com/jaagr/polybar)
+    - [Wiki](https://github.com/jaagr/polybar/wiki)
     - [Scripts](https://github.com/x70b1/polybar-scripts)
 - **Lemonbar**:
     - [Source code](https://github.com/LemonBoy/bar/blob/master/lemonbar.c)
