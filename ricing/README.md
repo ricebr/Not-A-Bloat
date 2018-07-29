@@ -18,6 +18,7 @@
   - [Configurando o i3 (vídeos)](https://www.youtube.com/playlist?list=PL-p5XmQHB_JTcMSvPmXMzNe7ZPMxEx_Oz)
 - **bspwm**:
     - [Source code (GitHub)](https://github.com/baskerville/bspwm)
+    - [Manual](https://www.mankier.com/1/bspwm)
     - [GitHub wiki](https://github.com/baskerville/bspwm/wiki)
     - [Como configurar o bspwm](https://mashn.github.io/artigos/instalando-e-configurando-o-bspwm.html)
     - [Arch Linux Wiki](https://wiki.archlinux.org/index.php/Bspwm_%28Portugu%C3%AAs%29)
