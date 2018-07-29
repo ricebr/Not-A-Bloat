@@ -40,7 +40,16 @@
     - [GitHub](https://github.com/LemonBoy/bar/)
     - [Manual](https://github.com/LemonBoy/bar/blob/master/README.pod)
     - [Arch Linux wiki](https://wiki.archlinux.org/index.php/Lemonbar)
-
+    
+#### Cores
+- **Terminal**:
+   - [TerminalSexy](https://terminal.sexy)
+- **Geral**:
+   - [Wal](https://github.com/dylanaraps/pywal)
+   - [i3](https://thomashunter.name/i3-configurator)
+   - [Obter paleta de cores baseada em uma image](https://www.coolphptools.com/color_extract)
+- **Gtk**:
+   - [LXAppearance](https://sourceforge.net/projects/lxde/files/LXAppearance/)
 
 
 
