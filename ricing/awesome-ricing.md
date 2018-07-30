@@ -66,7 +66,7 @@
 ### Cores
 - **Geral**:
    - [Pywal](https://github.com/dylanaraps/pywal) - Gerador de temas através de uma imagem, aplicando em todo o sistema no momento da execução do programa
-   - [Transparen Textures](https://www.transparenttextures.com/) - Gera texturas a partir de alguma cor.
+   - [Transparent Textures](https://www.transparenttextures.com/) - Gera texturas a partir de alguma cor.
    - [i3-configurator](https://thomashunter.name/i3-configurator) - Gerador de temas para i3 e i3-status
    - [Color extract](https://www.coolphptools.com/color_extract) - Obtem uma paleta de cores gerada a partir de uma imagem
    - [coolors](https://coolors.co/) - Gerador de paleta de cores.
@@ -75,3 +75,11 @@
    - [LXAppearance](https://sourceforge.net/projects/lxde/files/LXAppearance/) - Define os temas GTK
 - **Terminal**:
    - [TerminalSexy](https://terminal.sexy) - Criador de temas para terminais através do `~/.Xresources`
+
+### Wallpapers
+   - [Unsplash](https://unsplash.com/)
+   - [Wallhaven](https://alpha.wallhaven.cc/)
+   - [Gratisography](https://gratisography.com/)
+   - [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)
+   - [Simple Desktops](http://simpledesktops.com/)
+   - [The Pattern Library](http://thepatternlibrary.com/)
