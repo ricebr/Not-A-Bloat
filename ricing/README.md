@@ -27,7 +27,7 @@
     - [Scripts](https://github.com/Chrysostomus/bspwm-scripts)
    - [**bspwc** (bspwm no Wayland)](https://github.com/Bl4ckb0ne/bspwc)
 
-#### Bars
+#### Bars/Panels
 - **i3-status**:
     - [Manual](https://i3wm.org/i3status/manpage.html)
 - **i3-blocks**:
