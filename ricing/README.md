@@ -23,7 +23,9 @@
     - [GitHub wiki](https://github.com/baskerville/bspwm/wiki)
     - [Como configurar o bspwm](https://mashn.github.io/artigos/instalando-e-configurando-o-bspwm.html)
     - [Arch Linux Wiki](https://wiki.archlinux.org/index.php/Bspwm_%28Portugu%C3%AAs%29)
+    - [Void Wiki](https://wiki.voidlinux.eu/Bspwm)
     - [Scripts](https://github.com/Chrysostomus/bspwm-scripts)
+   - [**bspwc** (bspwm no Wayland)](https://github.com/Bl4ckb0ne/bspwc)
 
 #### Bars
 - **i3-status**:
@@ -40,12 +42,23 @@
     - [GitHub](https://github.com/LemonBoy/bar/)
     - [Manual](https://github.com/LemonBoy/bar/blob/master/README.pod)
     - [Arch Linux wiki](https://wiki.archlinux.org/index.php/Lemonbar)
-    
+- **Yabar**:
+    - [GitHub](https://github.com/geommer/yabar)
+    - [Manual](https://github.com/geommer/yabar/blob/master/doc/yabar.1.asciidoc)
+- **Dzen2**:
+    - [GitHub](https://github.com/minos-org/dzen2)
+    - [Arch Linux Wiki](https://wiki.archlinux.org/index.php/Dzen)
+    - [Scripts](https://github.com/trapd00r/dzen-scripts)
+- **Tint2**:
+    - [Gitlab](https://gitlab.com/o9000/tint2)
+    - [Arch Linux Wiki](https://wiki.archlinux.org/index.php/tint2)
+    - [Gentoo Wiki](https://wiki.gentoo.org/wiki/Tint2)
+
 #### Cores
 - **Terminal**:
    - [TerminalSexy](https://terminal.sexy)
 - **Geral**:
-   - [Wal](https://github.com/dylanaraps/pywal)
+   - [Pywal](https://github.com/dylanaraps/pywal)
    - [i3](https://thomashunter.name/i3-configurator)
    - [Obter paleta de cores baseada em uma image](https://www.coolphptools.com/color_extract)
 - **Gtk**:
