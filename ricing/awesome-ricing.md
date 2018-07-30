@@ -66,9 +66,12 @@
 ### Cores
 - **Geral**:
    - [Pywal](https://github.com/dylanaraps/pywal) - Gerador de temas através de uma imagem, aplicando em todo o sistema no momento da execução do programa
+   - [Transparen Ttextures](https://www.transparenttextures.com/) - Gera texturas a partir de alguma cor.
    - [i3-configurator](https://thomashunter.name/i3-configurator) - Gerador de temas para i3 e i3-status
    - [Color extract](https://www.coolphptools.com/color_extract) - Obtem uma paleta de cores gerada a partir de uma imagem
 - **Gtk**:
    - [LXAppearance](https://sourceforge.net/projects/lxde/files/LXAppearance/) - Define os temas GTK
 - **Terminal**:
    - [TerminalSexy](https://terminal.sexy) - Criador de temas para terminais através do `~/.Xresources`
+   - [coolors](https://coolors.co/) - Gerador de paleta de cores.
+   - [Material Palette](https://www.materialpalette.com/) - Paleta de cores e ícones materiais.
