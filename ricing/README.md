@@ -16,4 +16,4 @@ De acordo com a wiki do [r/unixporn](https://www.reddit.com/r/unixporn/):
 "Rice" é uma palavra que é comumente usada para referir a melhorias visuais e personalizações na área de trabalho. Ela foi herdada da prática de customizar carros de importação asiáticos baratos para fazê-los parecer mais rápidos do que realmente eram - o que também era conhecido como "ricing". Atualmente, a palavra se refere a uma área de trabalho visualmente atraente e modificada além do padrão.
 <br/>
 <br/>
-**Lista de links úteis:** [awesome-ricing](ricing/awesome-ricing.md)
+**Lista de links úteis:** [awesome-ricing](awesome-ricing.md)
