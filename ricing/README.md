@@ -15,7 +15,7 @@
 - [Comparação de _window managers_](https://en.wikipedia.org/wiki/Comparison_of_X_window_managers)
 - [Como funcionam os _window managers_](https://www.youtube.com/watch?v=Api6dFMlxAA)
 
-### Tiling window managers
+#### Tiling window managers
 - **i3**
   - [Source code](https://github.com/i3/i3)
   - [Manual](https://i3wm.org/docs/userguide.html)
