@@ -41,4 +41,5 @@
 
 
 
-
+---
+Guia feito pelos integrantes do grupo [Rice BR](https://t.me/ricebr) (@ricebr no Telegram).
