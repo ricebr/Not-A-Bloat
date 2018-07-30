@@ -15,6 +15,7 @@
   - [Como usar o i3wm (vídeo)](https://www.youtube.com/playlist?list=PL5ze0DjYv5DbCv9vNEzFmP6sU7ZmkGzcf)
   - [Introdução ao i3](https://www.vivaolinux.com.br/artigo/Introducao-gerenciador-de-janelas-i3)
   - [**i3-gaps** (fork do i3 para deixar espaços entre as janelas)](https://github.com/Airblader/i3)
+   - [**sway** (i3 no Wayland)](https://github.com/swaywm/sway)
   - [Configurando o i3 (vídeos)](https://www.youtube.com/playlist?list=PL-p5XmQHB_JTcMSvPmXMzNe7ZPMxEx_Oz)
 - **bspwm**:
     - [Source code (GitHub)](https://github.com/baskerville/bspwm)
@@ -32,14 +33,23 @@
     - [Manual](https://vivien.github.io/i3blocks/)
 - **Polybar**:
     - [GitHub](https://github.com/jaagr/polybar)
-    - [Wiki](https://github.com/jaagr/polybar)
+    - [Wiki](https://github.com/jaagr/polybar/wiki)
     - [Scripts](https://github.com/x70b1/polybar-scripts)
 - **Lemonbar**:
     - [Source code](https://github.com/LemonBoy/bar/blob/master/lemonbar.c)
     - [GitHub](https://github.com/LemonBoy/bar/)
     - [Manual](https://github.com/LemonBoy/bar/blob/master/README.pod)
     - [Arch Linux wiki](https://wiki.archlinux.org/index.php/Lemonbar)
-
+    
+#### Cores
+- **Terminal**:
+   - [TerminalSexy](https://terminal.sexy)
+- **Geral**:
+   - [Wal](https://github.com/dylanaraps/pywal)
+   - [i3](https://thomashunter.name/i3-configurator)
+   - [Obter paleta de cores baseada em uma image](https://www.coolphptools.com/color_extract)
+- **Gtk**:
+   - [LXAppearance](https://sourceforge.net/projects/lxde/files/LXAppearance/)
 
 
 
