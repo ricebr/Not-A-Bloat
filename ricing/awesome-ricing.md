@@ -1,9 +1,10 @@
 ## Tópicos
-- [Introdução](https://github.com/Valeyard1/Not-A-Bloat/blob/master/ricing/README.md#introdu%C3%A7%C3%A3o)
-- [Window Managers](https://github.com/Valeyard1/Not-A-Bloat/blob/master/ricing/README.md#window-managers)
-  - [Tiling window managers](https://github.com/Valeyard1/Not-A-Bloat/blob/master/ricing/README.md#tiling-window-managers)
-- [Bars/Panels](https://github.com/Valeyard1/Not-A-Bloat/blob/master/ricing/README.md#barspanels)
-- [Cores](https://github.com/Valeyard1/Not-A-Bloat/blob/master/ricing/README.md#cores)
+- [Introdução](https://github.com/Valeyard1/Not-A-Bloat/blob/master/ricing/awesome-ricing.md#introdu%C3%A7%C3%A3o)
+- [Window Managers](https://github.com/Valeyard1/Not-A-Bloat/blob/master/ricing/awesome-ricing.md#window-managers)
+  - [Tiling window managers](https://github.com/Valeyard1/Not-A-Bloat/blob/master/ricing/awesome-ricing.md#tiling-window-managers)
+- [Bars/Panels](https://github.com/Valeyard1/Not-A-Bloat/blob/master/ricing/awesome-ricing.md#barspanels)
+- [Cores](https://github.com/Valeyard1/Not-A-Bloat/blob/master/ricing/awesome-ricing.md#cores)
+- [Wallpapers](https://github.com/Valeyard1/Not-A-Bloat/blob/master/ricing/awesome-ricing.md#wallpapers)
 
 ---
 
