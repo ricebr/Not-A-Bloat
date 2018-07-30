@@ -14,8 +14,8 @@
   - [Guia para iniciantes no i3wm](https://www.devpy.me/your-guide-to-a-practical-linux-desktop-with-i3wm/)
   - [Como usar o i3wm (vídeo)](https://www.youtube.com/playlist?list=PL5ze0DjYv5DbCv9vNEzFmP6sU7ZmkGzcf)
   - [Introdução ao i3](https://www.vivaolinux.com.br/artigo/Introducao-gerenciador-de-janelas-i3)
-  - [**i3-gaps** (fork do i3 para deixar espaços entre as janelas)](https://github.com/Airblader/i3)
-   - [**sway** (i3 no Wayland)](https://github.com/swaywm/sway)
+  - [i3-gaps (fork do i3 para deixar espaços entre as janelas)](https://github.com/Airblader/i3)
+   - [sway (i3 no Wayland)](https://github.com/swaywm/sway)
   - [Configurando o i3 (vídeos)](https://www.youtube.com/playlist?list=PL-p5XmQHB_JTcMSvPmXMzNe7ZPMxEx_Oz)
 - **bspwm**:
     - [Source code (GitHub)](https://github.com/baskerville/bspwm)
@@ -25,7 +25,7 @@
     - [Arch Linux Wiki](https://wiki.archlinux.org/index.php/Bspwm_%28Portugu%C3%AAs%29)
     - [Void Wiki](https://wiki.voidlinux.eu/Bspwm)
     - [Scripts](https://github.com/Chrysostomus/bspwm-scripts)
-   - [**bspwc** (bspwm no Wayland)](https://github.com/Bl4ckb0ne/bspwc)
+   - [bspwc (bspwm no Wayland)](https://github.com/Bl4ckb0ne/bspwc)
 
 #### Bars/Panels
 - **i3-status**:
@@ -55,14 +55,14 @@
     - [Gentoo Wiki](https://wiki.gentoo.org/wiki/Tint2)
 
 #### Cores
-- **Terminal**:
-   - [TerminalSexy](https://terminal.sexy)
 - **Geral**:
-   - [Pywal](https://github.com/dylanaraps/pywal)
-   - [i3](https://thomashunter.name/i3-configurator)
-   - [Obter paleta de cores baseada em uma image](https://www.coolphptools.com/color_extract)
+   - [Pywal](https://github.com/dylanaraps/pywal) - Gerador de temas através de uma imagem, aplicando em todo o sistema no momento da execução do programa
+   - [i3-configurator](https://thomashunter.name/i3-configurator) - Gerador de temas para i3 e i3-status
+   - [Color extract](https://www.coolphptools.com/color_extract) - Obtem uma paleta de cores gerada a partir de uma imagem
 - **Gtk**:
-   - [LXAppearance](https://sourceforge.net/projects/lxde/files/LXAppearance/)
+   - [LXAppearance](https://sourceforge.net/projects/lxde/files/LXAppearance/) - Define os temas GTK
+- **Terminal**:
+   - [TerminalSexy](https://terminal.sexy) - Criador de temas para terminais através do `~/.Xresources`
 
 
 ---
