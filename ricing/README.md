@@ -1,8 +1,8 @@
 ### Introdução
-- [O que é ricing](https://wiki.installgentoo.com/index.php/GNU/Linux_ricing)
+- [O que é ricing?](https://wiki.installgentoo.com/index.php/GNU/Linux_ricing)
 
 ### _Window Managers_
-- [O que é](https://wiki.archlinux.org/index.php/Window_manager_%28Portugu%C3%AAs%29)
+- [O que é?](https://wiki.archlinux.org/index.php/Window_manager_%28Portugu%C3%AAs%29)
 - [Comparação de _window managers_](https://en.wikipedia.org/wiki/Comparison_of_X_window_managers)
 - [Como funcionam os _window managers_](https://www.youtube.com/watch?v=Api6dFMlxAA)
 
