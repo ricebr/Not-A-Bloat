@@ -1,3 +1,12 @@
+## Tópicos
+- [Introdução](https://github.com/Valeyard1/Not-A-Bloat/blob/master/ricing/README.md#introdu%C3%A7%C3%A3o)
+- [Window Managers](https://github.com/Valeyard1/Not-A-Bloat/blob/master/ricing/README.md#window-managers)
+  - [Tiling window managers]()
+- [Bars/Panels](https://github.com/Valeyard1/Not-A-Bloat/blob/master/ricing/README.md#barspanels)
+- [Cores](https://github.com/Valeyard1/Not-A-Bloat/blob/master/ricing/README.md#cores)
+
+---
+
 ### Introdução
 - [O que é ricing?](https://wiki.installgentoo.com/index.php/GNU/Linux_ricing)
 
@@ -6,7 +15,7 @@
 - [Comparação de _window managers_](https://en.wikipedia.org/wiki/Comparison_of_X_window_managers)
 - [Como funcionam os _window managers_](https://www.youtube.com/watch?v=Api6dFMlxAA)
 
-#### Tiling window managers
+### Tiling window managers
 - **i3**
   - [Source code](https://github.com/i3/i3)
   - [Manual](https://i3wm.org/docs/userguide.html)
@@ -15,7 +24,7 @@
   - [Como usar o i3wm (vídeo)](https://www.youtube.com/playlist?list=PL5ze0DjYv5DbCv9vNEzFmP6sU7ZmkGzcf)
   - [Introdução ao i3](https://www.vivaolinux.com.br/artigo/Introducao-gerenciador-de-janelas-i3)
   - [i3-gaps (fork do i3 para deixar espaços entre as janelas)](https://github.com/Airblader/i3)
-   - [sway (i3 no Wayland)](https://github.com/swaywm/sway)
+   - [sway (versão do i3 para Wayland)](https://github.com/swaywm/sway)
   - [Configurando o i3 (vídeos)](https://www.youtube.com/playlist?list=PL-p5XmQHB_JTcMSvPmXMzNe7ZPMxEx_Oz)
 - **bspwm**:
     - [Source code (GitHub)](https://github.com/baskerville/bspwm)
@@ -27,7 +36,7 @@
     - [Scripts](https://github.com/Chrysostomus/bspwm-scripts)
    - [bspwc (bspwm no Wayland)](https://github.com/Bl4ckb0ne/bspwc)
 
-#### Bars/Panels
+### Bars/Panels
 - **i3-status**:
     - [Manual](https://i3wm.org/i3status/manpage.html)
 - **i3-blocks**:
@@ -54,7 +63,7 @@
     - [Arch Linux Wiki](https://wiki.archlinux.org/index.php/tint2)
     - [Gentoo Wiki](https://wiki.gentoo.org/wiki/Tint2)
 
-#### Cores
+### Cores
 - **Geral**:
    - [Pywal](https://github.com/dylanaraps/pywal) - Gerador de temas através de uma imagem, aplicando em todo o sistema no momento da execução do programa
    - [i3-configurator](https://thomashunter.name/i3-configurator) - Gerador de temas para i3 e i3-status
