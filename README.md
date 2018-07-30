@@ -10,3 +10,7 @@ Um guia para começar no mundo do ricing (em uma visão minimalista) e do minima
 - [Ricing](ricing/README.md)
 - [Segurança](seguranca/README.md)
 - [Minimalismo](minimalismo/README.md)
+
+---
+
+Guia feito pelos integrantes do grupo [Rice BR](https://t.me/ricebr) (@ricebr no Telegram).
