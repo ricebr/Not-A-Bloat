@@ -1,8 +1,8 @@
 ## Tópicos
 
-- [Por que foi criado este guia?](https://github.com/Valeyard1/Not-A-Bloat/blob/master/ricing/README.md#Por-que-foi-criado-este-guia?)
-- [O que é ricing?](https://github.com/Valeyard1/Not-A-Bloat/blob/master/ricing/README.md#O-que-é-ricing?)
-- [Por onde começar?](https://github.com/Valeyard1/Not-A-Bloat/blob/master/ricing/README.md#Por-onde-começar?)
+- [Por que foi criado este guia?](https://github.com/Valeyard1/Not-A-Bloat/blob/master/ricing/README.md#por-que-foi-criado-este-guia)
+- [O que é ricing?](https://github.com/Valeyard1/Not-A-Bloat/blob/master/ricing/README.md#o-que-%C3%A9-ricing)
+- [Por onde começar?](https://github.com/Valeyard1/Not-A-Bloat/blob/master/ricing/README.md#por-onde-come%C3%A7ar)
 
 ---
 
@@ -26,8 +26,12 @@ Primeiro de tudo é necessário escolher um Window Manager. Este [link](https://
     Boa WM pra começar, é a que mais tem material sobre como usar, customizar, etc. Mas há alternativas mais mínimas e melhores.
 
 - **bspwm**:
-    Uma das WM's mais fáceis de configurar, leve, não gasta muita memória RAM. É necessário um programa externo para configurar os atalhos, o [sxhkd](https://github.com/baskerville/sxhkd), também fácil de configurar.  
+    Uma das WMs mais fáceis de configurar, leve, não gasta muita memória RAM. É necessário um programa externo para configurar os atalhos, o [sxhkd](https://github.com/baskerville/sxhkd), também fácil de configurar.
     _Obs_: Não esqueça de instalar o `sxhkd` e o `dmenu`. Veja este [link](https://mashn.github.io/artigos/instalando-e-configurando-o-bspwm.html) sobre como instalar o bspwm.
 
+- **2bwm**:
+	Uma WM para usuários avançados, extremamente leve (342 KB de uso de ram). Sua configuração é feita diretamente no código fonte, tendo que recompilar a cada mudança, sendo que as cores e as bordas podem ser configuradas no ~/.Xresources.
+
 ---
+
 **Lista de links úteis:** [awesome-ricing](awesome-ricing.md)
