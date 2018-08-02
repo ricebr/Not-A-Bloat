@@ -36,6 +36,13 @@
     - [Void Wiki](https://wiki.voidlinux.eu/Bspwm)
     - [Scripts](https://github.com/Chrysostomus/bspwm-scripts)
    - [bspwc (bspwm no Wayland)](https://github.com/Bl4ckb0ne/bspwc)
+- **dwm**:
+    - [Página do dwm](https://dwm.suckless.org/)
+    - [Patches](https://dwm.suckless.org/patches/)
+    - [Exemplo de configuração + arquivos](https://github.com/addy-dclxvi/almighty-dotfiles/tree/master/.dwm)
+    - [Como usar](http://ratfactor.com/slackware/dwm/)
+    - [Tutorial + como instalar patchs](http://srobb.net/dwm.html)
+    - [Gentoo Wiki](https://wiki.gentoo.org/wiki/Dwm)
 
 ### Bars/Panels
 - **i3-status**:
