@@ -2,6 +2,7 @@
 
 - [Por que foi criado este guia?](https://github.com/Valeyard1/Not-A-Bloat/blob/master/ricing/README.md#Por-que-foi-criado-este-guia?)
 - [O que é ricing?](https://github.com/Valeyard1/Not-A-Bloat/blob/master/ricing/README.md#O-que-é-ricing?)
+- [Por onde começar?](https://github.com/Valeyard1/Not-A-Bloat/blob/master/ricing/README.md#Por-onde-começar?)
 
 ---
 
@@ -16,4 +17,17 @@ De acordo com a wiki do [r/unixporn](https://www.reddit.com/r/unixporn/):
 "Rice" é uma palavra que é comumente usada para referir a melhorias visuais e personalizações na área de trabalho. Ela foi herdada da prática de customizar carros de importação asiáticos baratos para fazê-los parecer mais rápidos do que realmente eram - o que também era conhecido como "ricing". Atualmente, a palavra se refere a uma área de trabalho visualmente atraente e modificada além do padrão.
 <br/>
 <br/>
+
+## Por onde começar?
+
+Primeiro de tudo é necessário escolher um Window Manager. Este [link](https://wiki.archlinux.org/index.php/Window_manager_%28Portugu%C3%AAs%29#Lista_de_gerenciadores_de_janela) contém uma lista de Window Managers (incluindo os que são Tiling, Floating e dinâmicos) para escolher. Cada uma tem uma característica e um jeito diferente de usar/configurar.
+
+- **i3/i3-gaps**:
+    Boa WM pra começar, é a que mais tem material sobre como usar, customizar, etc. Mas há alternativas mais mínimas e melhores.
+
+- **bspwm**:
+    Uma das WM's mais fáceis de configurar, leve, não gasta muita memória RAM. É necessário um programa externo para configurar os atalhos, o [sxhkd](https://github.com/baskerville/sxhkd), também fácil de configurar.  
+    _Obs_: Não esqueça de instalar o `sxhkd` e o `dmenu`. Veja este [link](https://mashn.github.io/artigos/instalando-e-configurando-o-bspwm.html) sobre como instalar o bspwm.
+
+---
 **Lista de links úteis:** [awesome-ricing](awesome-ricing.md)
