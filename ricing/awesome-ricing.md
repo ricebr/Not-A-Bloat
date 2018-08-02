@@ -43,6 +43,10 @@
     - [Como usar](http://ratfactor.com/slackware/dwm/)
     - [Tutorial + como instalar patchs](http://srobb.net/dwm.html)
     - [Gentoo Wiki](https://wiki.gentoo.org/wiki/Dwm)
+- **2bwm**:
+    - [Source code (GitHub)](https://github.com/venam/2bwm)
+    - [Arch Linux Wiki](https://wiki.archlinux.org/index.php/2bwm)
+    - [Tutorial de instalação e configuração](https://extendedreality.wordpress.com/2015/06/12/window-managers-5-2bwm/)
 
 ### Bars/Panels
 - **i3-status**:
