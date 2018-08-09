@@ -86,7 +86,7 @@
 - **Gtk**:
    - [LXAppearance](https://sourceforge.net/projects/lxde/files/LXAppearance/) - Define os temas GTK
 - **Terminal**:
-   - [TerminalSexy](https://terminal.sexy) - Criador de temas para terminais através do `~/.Xresources`
+   - [TerminalSexy](https://terminal.sexy) - Um editor online de esquema de cores para diversos terminais
 
 ### Wallpapers
    - [Unsplash](https://unsplash.com/)
