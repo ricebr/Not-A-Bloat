@@ -18,8 +18,9 @@ De acordo com a wiki do [r/unixporn](https://www.reddit.com/r/unixporn/):
 <br/>
 <br/>
 
-## Por onde começar?
+# Por onde começar?
 
+## _Window Manager_
 Primeiro de tudo é necessário escolher um Window Manager. Este [link](https://wiki.archlinux.org/index.php/Window_manager_%28Portugu%C3%AAs%29#Lista_de_gerenciadores_de_janela) contém uma lista de Window Managers (incluindo os que são Tiling, Floating e dinâmicos) para escolher. Cada uma tem uma característica e um jeito diferente de usar/configurar.
 
 - **i3/i3-gaps**:
@@ -29,5 +30,8 @@ Primeiro de tudo é necessário escolher um Window Manager. Este [link](https://
     Uma das WM's mais fáceis de configurar, leve, não gasta muita memória RAM. É necessário um programa externo para configurar os atalhos, o [sxhkd](https://github.com/baskerville/sxhkd), também fácil de configurar.  
     _Obs_: Não esqueça de instalar o `sxhkd` e o `dmenu`. Veja este [link](https://mashn.github.io/artigos/instalando-e-configurando-o-bspwm.html) sobre como instalar o bspwm.
 
+## Dúvidas Frequentes
+1. Qual a diferença entre um _Window Manager_ e um _Desktop Environment_ (Gnome, KDE, etc.)?
+**Re:** Um gerenciador de janelas tem uma única função: gerenciar as janelas. Um DE, além de gerenciar as janelas, apresenta uma gama de pacotes que vem junto com ele, pra facilitar o uso. Por exemplo, ao instalar o XFCE, é instalado o xfwm (gerenciador de janelas do XFCE) e, além dele, é instalado também o xfce4-panel, xfce4-session, xfce4-terminal, etc.
 ---
 **Lista de links úteis:** [awesome-ricing](awesome-ricing.md)
