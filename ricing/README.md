@@ -23,16 +23,18 @@ De acordo com a wiki do [r/unixporn](https://www.reddit.com/r/unixporn/):
 ## _Window Manager_
 Primeiro de tudo é necessário escolher um Window Manager. Este [link](https://wiki.archlinux.org/index.php/Window_manager_%28Portugu%C3%AAs%29#Lista_de_gerenciadores_de_janela) contém uma lista de Window Managers (incluindo os que são Tiling, Floating e dinâmicos) para escolher. Cada uma tem uma característica e um jeito diferente de usar/configurar.
 
-- **i3/i3-gaps**:
+- **i3/i3-gaps**: (Tiling)
     Boa WM pra começar, é a que mais tem material sobre como usar, customizar, etc. Mas há alternativas mais mínimas e melhores.
 
-- **bspwm**:
+- **bspwm**: (Tiling)
     Uma das WMs mais fáceis de configurar, leve, não gasta muita memória RAM. É necessário um programa externo para configurar os atalhos, o [sxhkd](https://github.com/baskerville/sxhkd), também fácil de configurar.
     _Obs_: Não esqueça de instalar o `sxhkd` e o `dmenu`. Veja este [link](https://mashn.github.io/artigos/instalando-e-configurando-o-bspwm.html) sobre como instalar o bspwm.
 
-- **2bwm**: Uma WM para usuários avançados, extremamente leve (342 KB de uso de ram). Sua configuração é feita diretamente no código fonte, tendo que recompilar a cada mudança, sendo que as cores e as bordas podem ser configuradas no `~/.Xresources`.
+- **2bwm**: (Floating)
+    Uma WM para usuários avançados, extremamente leve (342 KB de uso de ram). Sua configuração é feita diretamente no código fonte, tendo que recompilar a cada mudança, sendo que as cores e as bordas podem ser configuradas no `~/.Xresources`.
 
-- **dwm**: WM simples e minimalista feita pela equipe [suckless](https://suckless.org/), o código original contém somente ~2100 linhas de código. Essa WM é configurada em C, e, assim como o 2bwm, é necessário recompilar sempre que adicionar/alterar alguma coisa. Existem patches que podem ser adicionados para customizar e deixá-la de acordo com suas necessidades.
+- **dwm**: (Tiling)
+    WM simples e minimalista feita pela equipe [suckless](https://suckless.org/), o código original contém somente ~2100 linhas de código. Essa WM é configurada em C, e, assim como o 2bwm, é necessário recompilar sempre que adicionar/alterar alguma coisa. Existem patches que podem ser adicionados para customizar e deixá-la de acordo com suas necessidades.
     _Obs_: Não é necessário saber C para usá-la, mas se souber ficará mais fácil de configurar.
 
 ### Dúvidas Frequentes
