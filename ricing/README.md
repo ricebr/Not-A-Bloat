@@ -34,7 +34,7 @@ Primeiro de tudo é necessário escolher um Window Manager. Este [link](https://
     Uma WM para usuários avançados, extremamente leve (342 KB de uso de ram). Sua configuração é feita diretamente no código fonte, tendo que recompilar a cada mudança, sendo que as cores e as bordas podem ser configuradas no `~/.Xresources`.
 
 - **dwm**: (Tiling)
-    WM simples e minimalista feita pela equipe [suckless](https://suckless.org/), o código original contém somente ~2100 linhas de código. Essa WM é configurada em C, e, assim como o 2bwm, é necessário recompilar sempre que adicionar/alterar alguma coisa. Existem patches que podem ser adicionados para customizar e deixá-la de acordo com suas necessidades.
+    WM simples e minimalista feita pela equipe [suckless](https://suckless.org/), o código original contém somente ~2100 linhas de código. Essa WM é configurada em C, e, assim como o 2bwm, é necessário recompilar sempre que adicionar/alterar alguma coisa. Existem patches que podem ser adicionados para customizar e deixá-la de acordo com suas necessidades.  
     _Obs_: Não é necessário saber C para usá-la, mas se souber ficará mais fácil de configurar.
 
 ### Dúvidas Frequentes
