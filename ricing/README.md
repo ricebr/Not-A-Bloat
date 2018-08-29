@@ -9,7 +9,7 @@
 ### Por que foi criado este guia?
 
 Para os amantes de ricing, a busca por tais conhecimentos nunca foi fácil, pois este conteúdo sempre foi limitado e espalhado. Os iniciantes que se fascinam por esse mundo ficam perdidos por não saberem por onde começar e onde encontrar guias para estudar, já que os poucos que existem estão em inglês em inglês.
-Este guia tem o objetivo de mostrar que o ricing é algo simples, e que qualquer interessado pode facilmente deixar sua distribuição da maneira que quiser.
+Este guia tem o objetivo de mostrar que o ricing é algo simples e que qualquer interessado pode facilmente deixar sua distribuição da maneira que quiser. Há um texto de [introdução ao ricing](https://medium.com/guiemitech/introdu%C3%A7%C3%A3o-ao-ricing-60243fab4275) publicado no Medium, em português brasileiro, endereçado tanto a quem acabou de ouvir falar no tema quanto a quem já possui alguma familiaridade mas ainda se sente perdido em meio a tanta informação.
 
 ### O que é ricing?
 
