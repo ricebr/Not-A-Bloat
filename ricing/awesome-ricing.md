@@ -74,6 +74,9 @@
     - [Gitlab](https://gitlab.com/o9000/tint2)
     - [Arch Linux Wiki](https://wiki.archlinux.org/index.php/tint2)
     - [Gentoo Wiki](https://wiki.gentoo.org/wiki/Tint2)
+- **PyPanel**:
+    - [SourceForge](http://pypanel.sourceforge.net/)
+    - [Arch Linux Wiki](https://wiki.archlinux.org/index.php/PyPanel)
 
 ### Cores
 - **Geral**:
