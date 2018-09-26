@@ -46,4 +46,4 @@ Primeiro de tudo é necessário escolher um Window Manager. Este [link](https://
 
 ---
 
-**Lista de links úteis:** [awesome-ricing](awesome-ricing.md), [bspwm](https://github.com/baskerville/bspwm/blob/master/doc/bspwm.1.asciidoc), [herbstluftwm](https://herbstluftwm.org/news.html), [i3wm](https://i3wm.org/docs/userguide.html)
+**Lista de links úteis:** [awesome-ricing](awesome-ricing.md)
