@@ -37,6 +37,9 @@ Primeiro de tudo é necessário escolher um Window Manager. Este [link](https://
     WM simples e minimalista feita pela equipe [suckless](https://suckless.org/), o código original contém somente ~2100 linhas de código. Essa WM é configurada em C, e, assim como o 2bwm, é necessário recompilar sempre que adicionar/alterar alguma coisa. Existem patches que podem ser adicionados para customizar e deixá-la de acordo com suas necessidades.  
     _Obs_: Não é necessário saber C para usá-la, mas se souber ficará mais fácil de configurar.
 
+- **herbstluftwm**: (Tiling)
+    Uma WM simples de configurar, sua configuração é semelhante à do **bspwm**, mas com varios recursos adicionais, nele você pode escolher usar o [sxhkd](https://github.com/baskerville/sxhkd) para os atalhos de teclado ou fazê-los diretamente na config. A [documentação](https://herbstluftwm.org/news.html) do herbstluftwm é bem simples e fácil de entender, sua barra padrão é feita com [dzen2](https://github.com/robm/dzen) e sua configuração padrão é bem minimalista.
+
 ### Dúvidas Frequentes
 1. Qual a diferença entre um _Window Manager_ e um _Desktop Environment_ (Gnome, KDE, etc.)?  
 **Re:** Um gerenciador de janelas tem uma única função: gerenciar as janelas. Um DE, além de vir incluso um gerenciar de janela, apresenta uma gama de pacotes que vem junto com ele, pra facilitar o uso. Por exemplo, ao instalar o XFCE, é instalado o xfwm (gerenciador de janelas do XFCE) e, além dele, é instalado também o xfce4-panel, xfce4-session, xfce4-terminal, etc.

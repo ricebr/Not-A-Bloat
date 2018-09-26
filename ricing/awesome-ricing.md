@@ -47,8 +47,13 @@
     - [Source code (GitHub)](https://github.com/venam/2bwm)
     - [Arch Linux Wiki](https://wiki.archlinux.org/index.php/2bwm)
     - [Tutorial de instalação e configuração](https://extendedreality.wordpress.com/2015/06/12/window-managers-5-2bwm/)
+- **herbstluftwm**:
+    - [Source code (Site do Projeto)](https://herbstluftwm.org/download.html)
+    - [Documentação](https://herbstluftwm.org/news.html)
 
 ### Bars/Panels
+- **i3bar**
+    - [Manual](https://i3wm.org/docs/i3bar-protocol.html)
 - **i3-status**:
     - [Manual](https://i3wm.org/i3status/manpage.html)
 - **i3-blocks**:
@@ -59,15 +64,13 @@
     - [Wiki](https://github.com/jaagr/polybar/wiki)
     - [Scripts](https://github.com/x70b1/polybar-scripts)
 - **Lemonbar**:
-    - [Source code](https://github.com/LemonBoy/bar/blob/master/lemonbar.c)
     - [GitHub](https://github.com/LemonBoy/bar/)
-    - [Manual](https://github.com/LemonBoy/bar/blob/master/README.pod)
     - [Arch Linux wiki](https://wiki.archlinux.org/index.php/Lemonbar)
 - **Yabar**:
     - [GitHub](https://github.com/geommer/yabar)
     - [Manual](https://github.com/geommer/yabar/blob/master/doc/yabar.1.asciidoc)
 - **Dzen2**:
-    - [GitHub](https://github.com/minos-org/dzen2)
+    - [GitHub](https://github.com/robm/dzen)
     - [Arch Linux Wiki](https://wiki.archlinux.org/index.php/Dzen)
     - [Scripts](https://github.com/trapd00r/dzen-scripts)
 - **Tint2**:
